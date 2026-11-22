@@ -1,0 +1,7 @@
+{
+  "assets": [
+    {"path":"models/hero-runner-v2.glb","size":1.7,"measure":"height","forward":"+z","role":"player","collision":"character","task":"e340e443-1d9b-5464-bf43-00567fba53e2","status":"ready"},
+    {"path":"models/roadster-body.glb","size":2.25,"measure":"length","forward":"-x","role":"vehicle","collision":"none","task":"8e54d907-2fe1-5e1f-956f-62da464b4a38","status":"ready"},
+    {"path":"models/roadster-wheel.glb","size":0.37,"measure":"height","forward":"+z","role":"vehicle","collision":"none","task":"47898de0-ea3b-551f-a1dc-585ba0264136","status":"ready"}
+  ]
+}
